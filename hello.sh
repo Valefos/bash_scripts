@@ -1,3 +1,5 @@
 #! /bin/bash
 
-echo "Hell World"
+clear
+
+echo "My First change"
