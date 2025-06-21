@@ -2,5 +2,5 @@
 
 clear
 
-path=/home/master/bash_scripts
+path=/home/sysadmin/bash_scripts
 date >> $path/demo.txt
