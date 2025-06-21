@@ -2,4 +2,5 @@
 
 clear
 
-echo "My First change"
+path=/home/master/bash_scripts
+date >> $path/demo.txt
