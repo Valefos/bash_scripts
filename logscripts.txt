@@ -1,0 +1,85 @@
+============================
+Дата запуска: Sat Jun 21 01:14:03 PM EEST 2025
+Пользователь: sysadmin
+Хост: testserv
+Текущая директория: /home/sysadmin/bash_scripts
+Запущен скрипт: date.sh
+Выполняю команду: ls -la
+total 20
+drwxrwxr-x 3 sysadmin sysadmin 4096 Jun 21 13:10 .
+drwxr-x--- 7 sysadmin sysadmin 4096 Jun 21 12:21 ..
+-rw-rw-r-- 1 sysadmin sysadmin  831 Jun 21 13:13 date.sh
+-rw-rw-r-- 1 sysadmin sysadmin   66 Jun 21 12:21 demo.txt
+drwxrwxr-x 8 sysadmin sysadmin 4096 Jun 21 12:29 .git
+-rw-rw-r-- 1 sysadmin sysadmin    0 Jun 21 12:54 logscripts.txt
+-rw-rw-r-- 1 sysadmin sysadmin    0 Jun 21 12:36 Readme.md
+Скрипт завершён: Sat Jun 21 01:14:03 PM EEST 2025
+
+============================
+Дата запуска: Sat Jun 21 01:30:01 PM EEST 2025
+Пользователь: sysadmin
+Хост: testserv
+Текущая директория: /home/sysadmin/bash_scripts
+Запущен скрипт: date.sh
+Выполняю команду: ls -la
+total 20
+drwxrwxr-x 3 sysadmin sysadmin 4096 Jun 21 13:10 .
+drwxr-x--- 7 sysadmin sysadmin 4096 Jun 21 12:21 ..
+-rw-rw-r-- 1 sysadmin sysadmin  896 Jun 21 13:29 date.sh
+-rw-rw-r-- 1 sysadmin sysadmin   66 Jun 21 12:21 demo.txt
+drwxrwxr-x 8 sysadmin sysadmin 4096 Jun 21 12:29 .git
+-rw-rw-r-- 1 sysadmin sysadmin    0 Jun 21 12:54 logscripts.txt
+-rw-rw-r-- 1 sysadmin sysadmin    0 Jun 21 12:36 Readme.md
+Скрипт завершён: Sat Jun 21 01:30:01 PM EEST 2025
+
+============================
+Дата запуска: Sat Jun 21 01:14:03 PM EEST 2025
+Пользователь: sysadmin
+Хост: testserv
+Текущая директория: /home/sysadmin/bash_scripts
+Запущен скрипт: date.sh
+Выполняю команду: ls -la
+total 20
+drwxrwxr-x 3 sysadmin sysadmin 4096 Jun 21 13:10 .
+drwxr-x--- 7 sysadmin sysadmin 4096 Jun 21 12:21 ..
+-rw-rw-r-- 1 sysadmin sysadmin  831 Jun 21 13:13 date.sh
+-rw-rw-r-- 1 sysadmin sysadmin   66 Jun 21 12:21 demo.txt
+drwxrwxr-x 8 sysadmin sysadmin 4096 Jun 21 12:29 .git
+-rw-rw-r-- 1 sysadmin sysadmin    0 Jun 21 12:54 logscripts.txt
+-rw-rw-r-- 1 sysadmin sysadmin    0 Jun 21 12:36 Readme.md
+Скрипт завершён: Sat Jun 21 01:14:03 PM EEST 2025
+
+============================
+Дата запуска: Sat Jun 21 01:30:01 PM EEST 2025
+Пользователь: sysadmin
+Хост: testserv
+Текущая директория: /home/sysadmin/bash_scripts
+Запущен скрипт: date.sh
+Выполняю команду: ls -la
+total 20
+drwxrwxr-x 3 sysadmin sysadmin 4096 Jun 21 13:10 .
+drwxr-x--- 7 sysadmin sysadmin 4096 Jun 21 12:21 ..
+-rw-rw-r-- 1 sysadmin sysadmin  896 Jun 21 13:29 date.sh
+-rw-rw-r-- 1 sysadmin sysadmin   66 Jun 21 12:21 demo.txt
+drwxrwxr-x 8 sysadmin sysadmin 4096 Jun 21 12:29 .git
+-rw-rw-r-- 1 sysadmin sysadmin    0 Jun 21 12:54 logscripts.txt
+-rw-rw-r-- 1 sysadmin sysadmin    0 Jun 21 12:36 Readme.md
+Скрипт завершён: Sat Jun 21 01:30:01 PM EEST 2025
+
+============================
+Дата запуска: Fri Jun 27 09:56:00 PM EEST 2025
+Пользователь: sysadmin
+Хост: testserv
+Текущая директория: /home/sysadmin/bash_scripts
+Запущен скрипт: date.sh
+Выполняю команду: ls -la
+total 24
+drwxrwxr-x 3 sysadmin sysadmin 4096 Jun 27 21:55 .
+drwxr-x--- 7 sysadmin sysadmin 4096 Jun 27 21:53 ..
+-rw-rw-r-- 1 sysadmin sysadmin  896 Jun 21 13:29 date.sh
+drwxrwxr-x 8 sysadmin sysadmin 4096 Jun 21 12:29 .git
+-rw-rw-r-- 1 sysadmin sysadmin   66 Jun 21 12:21 logFile.txt
+-rw-rw-r-- 1 sysadmin sysadmin 1504 Jun 21 13:30 logscripts.txt
+-rw-rw-r-- 1 sysadmin sysadmin    0 Jun 21 12:36 Readme.md
+Скрипт завершён: Fri Jun 27 09:56:00 PM EEST 2025
+
